@@ -4,7 +4,7 @@ import { PLAYERS } from './players.js';
 // All player data is now managed in data/players.js for easy configuration.
 const TEAMS_ROSTERS = [
     // Mid-Season SoccerLeague (MSSL) - 8 teams
-    { id: 201, name: 'Sombrial', emoji: '👻', division: 'MSSL', logo: '', playerKeys: ['capivara_new', 'fernandes_new', 'nicolas_new', 'general201', 'snow201', 'gabrielchefao_new'] },
+    { id: 201, name: 'ViensK', emoji: '👻', division: 'MSSL', logo: '', playerKeys: ['capivara_new', 'fernandes_new', 'nicolas_new', 'general201', 'snow201', 'gabrielchefao_new'] },
     { id: 202, name: 'Paulistano', emoji: '🏛️', division: 'MSSL', logo: '', playerKeys: ['neseig202', 'valladas202', 'vinicin207', 'haru_new'] },
     { id: 204, name: 'Canamerica City', emoji: '🏙️', division: 'MSSL', logo: '', playerKeys: ['yaahzy204', 'kayon204', 'gaifa204', 'gual_new', 'big204'] },
     { id: 205, name: 'Yokoshima', emoji: '⛩️', division: 'MSSL', logo: '', playerKeys: ['chicolego205', 'fire205', 'brabon205', 'rafao205', 'shadow_new'] },
